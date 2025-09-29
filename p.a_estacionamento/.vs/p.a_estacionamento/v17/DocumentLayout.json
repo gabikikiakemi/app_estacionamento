@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|c:\\users\\aluno\\documents\\github\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|solutionrelative:p.a_estacionamento\\objeto\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|c:\\users\\aluno\\documents\\github\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|solutionrelative:p.a_estacionamento\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|c:\\users\\aluno\\documents\\github\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\p.a_estacionamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|solutionrelative:p.a_estacionamento\\p.a_estacionamento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|c:\\users\\aluno\\documents\\github\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|solutionrelative:p.a_estacionamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|c:\\users\\aluno\\documents\\github\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114AB47-177C-4B4E-A8DC-EBAB3F70B257}|p.a_estacionamento\\p.a_estacionamento.csproj|solutionrelative:p.a_estacionamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\conexao.cs",
+              "RelativeDocumentMoniker": "p.a_estacionamento\\objeto\\conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\conexao.cs",
+              "RelativeToolTip": "p.a_estacionamento\\objeto\\conexao.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:56:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\financeiro.cs",
+              "RelativeDocumentMoniker": "p.a_estacionamento\\objeto\\financeiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\objeto\\financeiro.cs",
+              "RelativeToolTip": "p.a_estacionamento\\objeto\\financeiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:56:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "p.a_estacionamento",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\p.a_estacionamento.csproj",
+              "RelativeDocumentMoniker": "p.a_estacionamento\\p.a_estacionamento.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\p.a_estacionamento.csproj",
+              "RelativeToolTip": "p.a_estacionamento\\p.a_estacionamento.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T13:55:51.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\Form1.cs",
+              "RelativeDocumentMoniker": "p.a_estacionamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\Form1.cs",
+              "RelativeToolTip": "p.a_estacionamento\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:21:44.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\Form1.cs",
+              "RelativeDocumentMoniker": "p.a_estacionamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\app_estacionamento\\p.a_estacionamento\\p.a_estacionamento\\Form1.cs [Projeto]",
+              "RelativeToolTip": "p.a_estacionamento\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:14:46.944Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

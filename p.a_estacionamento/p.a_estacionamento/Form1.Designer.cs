@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
+            confirmar = new Button();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -46,16 +46,17 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // confirmar
             // 
-            button1.BackColor = Color.LightCoral;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.Location = new Point(59, 371);
-            button1.Name = "button1";
-            button1.Size = new Size(92, 29);
-            button1.TabIndex = 0;
-            button1.Text = "Confirmar";
-            button1.UseVisualStyleBackColor = false;
+            confirmar.BackColor = Color.LightCoral;
+            confirmar.FlatStyle = FlatStyle.Flat;
+            confirmar.Location = new Point(59, 371);
+            confirmar.Name = "confirmar";
+            confirmar.Size = new Size(92, 29);
+            confirmar.TabIndex = 0;
+            confirmar.Text = "Confirmar";
+            confirmar.UseVisualStyleBackColor = false;
+            confirmar.Click += confirmar_Click;
             // 
             // label1
             // 
@@ -142,11 +143,12 @@
             // 
             dataGridView1.BackgroundColor = Color.LightCoral;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(450, 92);
+            dataGridView1.Location = new Point(387, 92);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(300, 263);
+            dataGridView1.Size = new Size(363, 263);
             dataGridView1.TabIndex = 12;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // textBox4
             // 
@@ -206,7 +208,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(button1);
+            Controls.Add(confirmar);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
@@ -216,7 +218,7 @@
 
         #endregion
 
-        private Button button1;
+        private Button confirmar;
         private Label label1;
         private Label label2;
         private Label label3;

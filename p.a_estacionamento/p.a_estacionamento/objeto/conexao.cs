@@ -4,6 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
 
 namespace p.a_estacionamento.objeto
 {
@@ -16,17 +17,16 @@ namespace p.a_estacionamento.objeto
         static private string senha = "";
         public MySqlConnection conexaoProjeto = null;
 
-        static private string conexaobd = "server=" + servidor + ";database="
+        static private string conexaoc = "server=" + servidor + ";database="
             + banco + ";user id=" + usuario + ";password=" + senha;
 
         //metodo de conexao com o banco de dados
 
         public MySqlConnection getConexao()
         {
-            conexaoProjeto = new MySqlConnection(conexaobd);
+            conexaoProjeto = new MySqlConnection(conexaoc);
             return conexaoProjeto;
         }
-
 
         public DataTable obterdados(string sql)
         {

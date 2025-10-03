@@ -15,16 +15,16 @@ namespace p.a_estacionamento.objeto
         public string nome;
         public string modelo;
         public string cor;
-        public string servico;
+        public string placa;
 
         public bool cadastrar(conexao conexao)
         {
             bool resultado = false;
 
-            string sql = "insert into financeiro (nome, modelo, cor, servico)" +
-                " values(@nome, @modelo, @cor, @servico)";
-            string[] campos = { "@nome", "@modelo", "@cor", "@servico" };
-            object[] valores = { nome, modelo, cor, servico };
+            string sql = "insert into financeiro (nome, modelo, cor, placa)" +
+                " values(@nome, @modelo, @cor, @placa)";
+            string[] campos = { "@nome", "@modelo", "@cor", "@placa" };
+            object[] valores = { nome, modelo, cor, placa };
             if (conexao.cadastrar(campos, valores, sql) >= 1)
             {
                 resultado = true;

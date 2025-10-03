@@ -42,11 +42,9 @@ namespace p.a_estacionamento
         {
             int codigo = 0;
             codigo = Convert.ToInt32(dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value);
-            numero.Value = dataGridView1.Rows[e.RowIndex].Cells["numero"].Value.ToString();
-            status.Text = dataGridView1.Rows[e.RowIndex].Cells["status"].Value.ToString();
-            data.Value = dataGridView1.Rows[e.RowIndex].Cells["data"].Value.ToString();
-    
-            if (pago == true)
+            placa.Value = dataGridView1.Rows[e.RowIndex].Cells["placa"].Value.ToString();
+            nome.Text = dataGridView1.Rows[e.RowIndex].Cells["nome"].Value.ToString();
+            modelo.Value = dataGridView1.Rows[e.RowIndex].Cells["modelo"].Value.ToString();
             {
                 checkBox1.Checked = true;
             }

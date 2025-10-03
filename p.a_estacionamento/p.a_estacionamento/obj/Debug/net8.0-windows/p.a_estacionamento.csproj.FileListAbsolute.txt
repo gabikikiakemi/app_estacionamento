@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.Form1.resources
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\app_estacionamento\p.a_estacionamento\p.a_estacionamento\obj\Debug\net8.0-windows\p.a_estacionamento.sourcelink.json
